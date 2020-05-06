@@ -12,7 +12,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "css-loader": "^3.5.3",
     "express": "^4.17.1",
+    "html-webpack-plugin": "^4.3.0",
+    "style-loader": "^1.2.1",
     "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
