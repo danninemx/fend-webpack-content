@@ -5,4 +5,6 @@ import './styles/loaderTest.scss';
 
 console.log(checkForName);
 
-alert('test');
+alert('test1');
+alert('test2');
+alert('test3');
